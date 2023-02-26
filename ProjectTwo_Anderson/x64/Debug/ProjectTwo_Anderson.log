@@ -1,0 +1,7 @@
+﻿  ProjectTwo_Anderson.cpp
+C:\Users\steve\OneDrive\Desktop\C++ projects\ProjectTwo_Anderson\ProjectTwo_Anderson\ProjectTwo_Anderson.cpp(34,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\OneDrive\Desktop\C++ projects\ProjectTwo_Anderson\ProjectTwo_Anderson\ProjectTwo_Anderson.cpp(38,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\OneDrive\Desktop\C++ projects\ProjectTwo_Anderson\ProjectTwo_Anderson\ProjectTwo_Anderson.cpp(39,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\OneDrive\Desktop\C++ projects\ProjectTwo_Anderson\ProjectTwo_Anderson\ProjectTwo_Anderson.cpp(127,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\OneDrive\Desktop\C++ projects\ProjectTwo_Anderson\ProjectTwo_Anderson\ProjectTwo_Anderson.cpp(149,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ProjectTwo_Anderson.vcxproj -> C:\Users\steve\OneDrive\Desktop\C++ projects\ProjectTwo_Anderson\x64\Debug\ProjectTwo_Anderson.exe
